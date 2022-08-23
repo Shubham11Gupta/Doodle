@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#14CAB4</color>
+    <color name="colourPrimaryDark">#11837A</color>
+    <color name="colourAccent">#03DAC5</color>
+    <color name="lightGrey">#EDEDED</color>
+    <color name="VCcolour">#0B8878</color>
+    <color name="red">#A50D0D</color>
+    <color name="STATUSbckgrnd">#009688</color>
+    <color name="CHATbackground">#A5E0FA</color>
+    <color name="chatbkgrnd">#AAAAAA</color>
+    <color name="setting">#0E8374</color>
+    <color name="Greybckgrnd">#BCBCBC</color>
+    <color name="lightGreen1">#AED184</color>
+    <color name="lightGreen">#9BDC4E</color>
+    <color name="lightyello">#F89E1A</color>
+    <color name="lightpurple">#C0D300</color>
+    <color name="fbcolor">#3c5793</color>
+    <color name="white">#FFFFFF</color>
+</resources>

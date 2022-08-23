@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.VCHAT" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colourPrimaryDark</item>
+        <item name="colorPrimaryVariant">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colourAccent</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/lightGrey</item>
+        <item name="colorSecondaryVariant">@color/chatbkgrnd</item>
+        <item name="colorOnSecondary">@color/Greybckgrnd</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
